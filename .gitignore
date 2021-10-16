@@ -1,0 +1,9 @@
+__history
+__recovery
+Win32
+/src/Unity.dproj.local
+/src/Unity.identcache
+/src/Unity.stat
+*.exe
+bin
+/res
